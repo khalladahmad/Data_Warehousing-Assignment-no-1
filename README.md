@@ -1,10 +1,5 @@
 # ☁️ Azure Data Factory — Complete Beginner to Advanced Guide
 
-> **Assignment Documentation** | Data Engineering Course  
-> This README explains every theoretical concept covered in our ADF assignment.  
-> A complete beginner can read this top to bottom and understand Azure Data Factory fully — no videos needed.
-
----
 
 ##  What We Built — Screenshot Index
 
