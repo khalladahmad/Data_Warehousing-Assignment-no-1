@@ -5,35 +5,6 @@
 
 Throughout this assignment, screenshots were taken at every major step and included in the Word document submission. Here is what each screenshot covers:
 
-| # | Screenshot | Section |
-|---|---|---|
-| 1 | Azure Portal — Resource Group created | Part 1 — Setup |
-| 2 | ADF Instance in Azure Portal | Part 1 — Setup |
-| 3 | ADF Studio Interface (Author/Monitor/Manage tabs) | Part 1 — Setup |
-| 4 | Linked Service — LS_AzureBlobStorage configuration | Part 1 — Linked Services |
-| 5 | Dataset — DS_Source_CSV properties | Part 1 — Datasets |
-| 6 | Dataset — DS_Sink_CSV properties | Part 1 — Datasets |
-| 7 | Pipeline canvas — PL_Copy_Employees with Copy activity | Part 1 — Pipeline |
-| 8 | Debug run — green checkmark, rows read/written | Part 1 — Pipeline |
-| 9 | Monitor tab — pipeline run history | Part 1 — Monitor |
-| 10 | Trigger — TR_Daily_Copy schedule configuration | Part 1 — Triggers |
-| 11 | ForEach pipeline — PL_ForEach_MultiFile canvas | Part 2 — Control Flow |
-| 12 | ForEach inner canvas showing Copy activity | Part 2 — Control Flow |
-| 13 | Parameterized pipeline — parameters panel | Part 2 — Parameters |
-| 14 | Dynamic content expression editor | Part 2 — Parameters |
-| 15 | Monitor tab — detailed activity run with rows/bytes | Part 2 — Monitoring |
-| 16 | Retry policy configuration on Copy activity | Part 2 — Monitoring |
-| 17 | Azure SQL Database — Query Editor with tables | Part 2 — Incremental Load |
-| 18 | Incremental pipeline — all 4 activities connected | Part 2 — Incremental Load |
-| 19 | Watermark table before and after pipeline run | Part 2 — Incremental Load |
-| 20 | REST Linked Service — LS_REST_API configuration | Part 3 — REST API |
-| 21 | REST pipeline — API data in Blob output container | Part 3 — REST API |
-| 22 | Git configuration — GitHub repository connected | Part 3 — Git |
-| 23 | GitHub repository — pipeline JSON files visible | Part 3 — Git |
-| 24 | Error handling — green and red paths on pipeline | Part 3 — Error Handling |
-| 25 | Capstone pipeline — all activities end-to-end | Capstone |
-| 26 | Capstone — Monitor tab showing successful run | Capstone |
-
 ---
 
 ## 📚 Table of Contents
