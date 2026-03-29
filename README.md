@@ -1156,10 +1156,9 @@ adf-assignment/
 
 ## 👤 Author
 
-**[Your Name]**  
-Data Engineering Course  
+**[M Ahmad]**  
+ 
 Azure Data Factory Assignment — Beginner to Advanced  
 
 ---
 
-*This README was written to serve as complete theoretical documentation for the ADF assignment. A beginner reading this document top to bottom will understand Azure, cloud computing, data pipelines, and ADF well enough to answer any question in the assignment.*
