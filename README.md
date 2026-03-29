@@ -6,7 +6,7 @@
 
 ---
 
-## 📸 What We Built — Screenshot Index
+##  What We Built — Screenshot Index
 
 Throughout this assignment, screenshots were taken at every major step and included in the Word document submission. Here is what each screenshot covers:
 
