@@ -1,10 +1,9 @@
 # ☁️ Azure Data Factory — Complete Beginner to Advanced Guide
 
 
-##  What We Built — Screenshot Index
+##  What We Built 
 
-Throughout this assignment, screenshots were taken at every major step and included in the Word document submission. Here is what each screenshot covers:
-
+Throughout this assignment, screenshots were taken at every major step and included in the Word document submission. 
 ---
 
 ## 📚 Table of Contents
